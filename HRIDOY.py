@@ -159,13 +159,7 @@ def menu_apikey():
     │ [✓] VERSION  : 1.7.8                                    |
     │ [✓] TOOLS    : \033[1;32m RANDOM NUMBER CLONER  \033[1;37m│
     └───────────────────────────────────────┘""")
-  print(f"\t \033[1;32m NAMTA MONE RAKHBEN VIRUS TEAM-NSN & ANONYMOUS CYBER ™ \033[1;37m ")
-  print(f"")
-  print(f"\t \033[1;32m  SHAHIN SIR TOOLS ER PRICE CHILO 6K TK  \033[1;37m ")
-  print(f"")
-  print(f"\t \033[1;32m  ATO TK DITE PARMU NAH TAI OPENSURCH MARLAM\033[1;37m ")
-  print(f"")
-  print(f"\t \033[1;32m  FIRST GET APPROVEL\033[1;37m ")
+  print(f"\ \033[1;32m FIRST GET APPROVEL "/033[1;37m ")
   print(f"")
   print(f" \033[1;32m  THIS TOOLS IS PAID SO YOU NEED GET APPROVED FIRST\033[1;37m\n")
   print(f"")
